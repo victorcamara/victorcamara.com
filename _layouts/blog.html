@@ -1,0 +1,37 @@
+{% include head.html %}
+
+<body>
+<!-- Page Wrapper -->
+<div id="page-wrapper">
+
+{% include header.html %}
+
+<body>
+
+<!-- Main -->
+    <article id="main">
+        <header>
+            <h2>Blog</h2>
+            <p></p>
+        </header>
+        <section class="wrapper style5">
+            <div class="inner">
+
+            <ul>
+              {% for post in site.posts %}
+                <li>
+                  <a href="{{ post.url }}">{{ post.title }}</a>
+                  {{ post.excerpt }}<a href="{{ post.url }}">Read more <i class="fa fa-arrow-circle-right"></i></a>
+                </li>
+                <br>
+                <br>
+              {% endfor %}
+            </ul>
+
+</div>
+</section>
+</article>
+
+</body>
+
+{% include footer.html %}
