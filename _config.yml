@@ -16,7 +16,7 @@
 title: Victor Camara official iste
 email: victor@victorcamara.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Digital marketing expert with over 15 years of experience. Marketing automation and why you need it now.
+
 baseurl: "victorcamara.com" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: victorcamara
