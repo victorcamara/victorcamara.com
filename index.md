@@ -4,5 +4,5 @@
 
 layout: home
 title: Victor Camara official site | Marketing Automation
-description: 
+description: Victor Camara does digital marketing automation, strategy, photography, a bit of coding and more. Contact me, we should work together!
 ---
