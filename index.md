@@ -4,5 +4,5 @@
 
 layout: home
 title: Victor Camara official site | Marketing Automation
-description: Victor Camara official site. Blog, marketing, automation, photography and more. Over 15 years experience.
+description: 
 ---
