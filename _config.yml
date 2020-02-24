@@ -27,6 +27,7 @@ markdown: kramdown
 theme: spectral_jekyll_theme
 plugins:
   - jekyll-feed
+ # - jekyll-responsive-image
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
