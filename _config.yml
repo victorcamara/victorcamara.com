@@ -27,6 +27,7 @@ markdown: kramdown
 theme: spectral_jekyll_theme
 plugins:
   - jekyll-feed
+  - jekyll-cloudinary
  # - jekyll-responsive-image
 
 # Exclude from processing.
@@ -47,6 +48,7 @@ highlighter: rouge
 #cloudinary
 cloudinary:
     cloud_name: victorcamara
+    only_prod: true
     verbose: true
     presets:
       default:
