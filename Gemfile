@@ -21,6 +21,7 @@ gem "spectral_jekyll_theme"
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.6"
+  gem "jekyll-cloudinary"
   #gem "jekyll-responsive-image"
 end
 
